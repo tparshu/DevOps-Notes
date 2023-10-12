@@ -31,6 +31,7 @@ How to configure username and email for git
 $ git init
 
 $ git config --global   user.name "sunilkumark11"
+
 $ git config --global   user.email  "sunilkumark11@gmail.com"
 
  TO check the configurations
